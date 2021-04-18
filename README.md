@@ -1,4 +1,4 @@
-# tree CLI python app
+# tree - CLI python app
 
 Command line tool that recursively scans a directory and prints its contents in a tree structure.
 
