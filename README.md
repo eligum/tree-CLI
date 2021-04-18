@@ -1,6 +1,6 @@
-# Tree utility
+# tree CLI python app
 
-Command line tool that recursively scans your current directory and prints its contents in a tree structure.
+Command line tool that recursively scans a directory and prints its contents in a tree structure.
 
 ## Files
 
